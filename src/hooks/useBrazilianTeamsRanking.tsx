@@ -22,11 +22,10 @@ export const useBrazilianTeamsRanking = () => {
     }
   }
 
-  // Atualiza a rodada atual
   useEffect(() => {
     const interval = setInterval(() => {
       if (currentRound >= maxRound) {
-        clearInterval(interval);
+        setCurrentRound(1);
       } else {
         setCurrentRound(currentRound + 1);
       }
@@ -35,12 +34,10 @@ export const useBrazilianTeamsRanking = () => {
     return () => clearInterval(interval);
   }, [currentRound, maxRound]);
 
-  // Atualiza os dados da rodada atual
   useEffect(() => {
     setDataCurrentRound(roundsData.filter((item) => item.rodada === currentRound));
   }, [currentRound]);
 
-  // Atualiza os dados dos times
   useEffect(() => {
     const updatedTeamData: TeamData[] = teams.map((team) => {
       const teamRoundData = dataCurrentRound.find((item) => item.id_clube === team.id);
