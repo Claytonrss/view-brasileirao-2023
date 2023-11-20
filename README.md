@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# View Brasileirão 2023
 
-First, run the development server:
+## Descrição
+"View Brasileirão 2023" é uma aplicação web projetada para fornecer informações sobre a Série A do Brasileirão de 2023, a principal liga de futebol do Brasil. Construída utilizando Next.js, esta aplicação oferece visualização de dados da rodada 1 até a rodada 34.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Instalação e Configuração
+Para configurar o projeto localmente, siga estes passos:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. **Clonar o Repositório**
+   ```
+   git clone https://github.com/Claytonrss/view-brasileirao-2023.git
+   cd view-brasileirao-2023
+   ```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+2. **Instalar Dependências**
+   ```
+   npm install
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3. **Executar a Aplicação**
+   ```
+   npm run dev
+   ```
+   Isso iniciará o servidor de desenvolvimento. Visite `http://localhost:3000` no seu navegador para ver a aplicação.
 
-## Learn More
+## Tecnologias Utilizadas
+- Next.js
+- React
+- Tailwind CSS
+- TypeScript
 
-To learn more about Next.js, take a look at the following resources:
+## Contribuições
+Contribuições para o "View Brasileirão 2023" são bem-vindas!
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Licença
+Este projeto está licenciado sob a [Licença MIT](LICENSE.md).
