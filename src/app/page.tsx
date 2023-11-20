@@ -12,7 +12,7 @@ export default function Home() {
     <>
       <main className="flex min-h-screen flex-col p-8 md:p-12">
         <header>
-          <h1 className="text-2xl">Analise de dados Brasileirão 2023</h1>
+          <h1 className="text-2xl">Análise de dados Brasileirão 2023</h1>
           <h2 className="text-xl mt-6">Rodada {currentRound}</h2>
         </header>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-12">
