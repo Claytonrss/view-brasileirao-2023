@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "cor1": "#000000",
+        "cor2": "#006600",
+        "cor3": null,
+        "nome": "América-MG",
+        "abreviacao": "AME"
+    },
+    {
+        "id": 2,
+        "cor1": "#115191",
+        "cor2": "#DC3827",
+        "cor3": "#FFFFFF",
+        "nome": "Bahia",
+        "abreviacao": "BAH"
+    },
+    {
+        "id": 3,
+        "cor1": "#010101",
+        "cor2": "#FFFFFF",
+        "cor3": null,
+        "nome": "Botafogo",
+        "abreviacao": "BOT"
+    },
+    {
+        "id": 4,
+        "cor1": "#242021",
+        "cor2": "#FFFFFF",
+        "cor3": null,
+        "nome": "Atlético-MG",
+        "abreviacao": "CAM"
+    },
+    {
+        "id": 5,
+        "cor1": "#AA0F16",
+        "cor2": "#000000",
+        "cor3": null,
+        "nome": "Athletico-PR",
+        "abreviacao": "CAP"
+    },
+    {
+        "id": 6,
+        "cor1": "#1A5D4F",
+        "cor2": "#FFFFFF",
+        "cor3": null,
+        "nome": "Coritiba",
+        "abreviacao": "CFC"
+    },
+    {
+        "id": 7,
+        "cor1": "#000000",
+        "cor2": "#FFFFFF",
+        "cor3": null,
+        "nome": "Corinthians",
+        "abreviacao": "COR"
+    },
+    {
+        "id": 8,
+        "cor1": "#193D8F",
+        "cor2": "#FFFFFF",
+        "cor3": null,
+        "nome": "Cruzeiro",
+        "abreviacao": "CRU"
+    },
+    {
+        "id": 9,
+        "cor1": "#23743B",
+        "cor2": "#F9AB19",
+        "cor3": null,
+        "nome": "Cuiabá",
+        "abreviacao": "CUI"
+    },
+    {
+        "id": 10,
+        "cor1": "#EC2024",
+        "cor2": "#030101",
+        "cor3": null,
+        "nome": "Flamengo",
+        "abreviacao": "FLA"
+    },
+    {
+        "id": 11,
+        "cor1": "#962A3C",
+        "cor2": "#22714D",
+        "cor3": "#FFFFFF",
+        "nome": "Fluminense",
+        "abreviacao": "FLU"
+    },
+    {
+        "id": 12,
+        "cor1": "#F32B08",
+        "cor2": "#1661AA",
+        "cor3": "#FFFFFF",
+        "nome": "Fortaleza",
+        "abreviacao": "FOR"
+    },
+    {
+        "id": 13,
+        "cor1": "#13491E",
+        "cor2": "#FFFFFF",
+        "cor3": null,
+        "nome": "Goiás",
+        "abreviacao": "GOI"
+    },
+    {
+        "id": 14,
+        "cor1": "#2381BF",
+        "cor2": "#211C19",
+        "cor3": "#FFFFFF",
+        "nome": "Grêmio",
+        "abreviacao": "GRE"
+    },
+    {
+        "id": 15,
+        "cor1": "#E42428",
+        "cor2": "#FFFFFF",
+        "cor3": null,
+        "nome": "Internacional",
+        "abreviacao": "INT"
+    },
+    {
+        "id": 16,
+        "cor1": "#1E6637",
+        "cor2": "#FFFFFF",
+        "cor3": null,
+        "nome": "Palmeiras",
+        "abreviacao": "PAL"
+    },
+    {
+        "id": 17,
+        "cor1": "#D2093C",
+        "cor2": "#FFFFFF",
+        "cor3": null,
+        "nome": "Bragantino",
+        "abreviacao": "RED"
+    }, 
+    {
+        "id": 18,
+        "cor1": "#040404",
+        "cor2": "#FFFFFF",
+        "cor3": null,
+        "nome": "Santos",
+        "abreviacao": "SAN"
+    },
+    {
+        "id": 19,
+        "cor1": "#ED2125",
+        "cor2": "#030303",
+        "cor3": "#FFFFFF",
+        "nome": "São Paulo",
+        "abreviacao": "SAO"
+    },
+    {
+        "id": 20,
+        "cor1": "#000000",
+        "cor2": "#FFFFFF",
+        "cor3": null,
+        "nome": "Vasco",
+        "abreviacao": "VAS"
+    }
+]

@@ -1,0 +1,6802 @@
+[
+  {
+    "id_clube": 1,
+    "rodada": 1,
+    "pontos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": -3,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 1,
+    "pontos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": -1,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 1,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 0,
+    "saldo_gols": 1,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 1,
+    "pontos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": -1,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 1,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 0,
+    "saldo_gols": 2,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 1,
+    "pontos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": -3,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 1,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 0,
+    "saldo_gols": 1,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 1,
+    "pontos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": -1,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 1,
+    "pontos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": -1,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 1,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 0,
+    "saldo_gols": 3,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 1,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 0,
+    "saldo_gols": 3,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 1,
+    "pontos": 1,
+    "vitorias": 0,
+    "empates": 1,
+    "derrotas": 0,
+    "saldo_gols": 0,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 1,
+    "pontos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": -2,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 1,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 0,
+    "saldo_gols": 1,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 1,
+    "pontos": 1,
+    "vitorias": 0,
+    "empates": 1,
+    "derrotas": 0,
+    "saldo_gols": 0,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 1,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 0,
+    "saldo_gols": 1,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 1,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 0,
+    "saldo_gols": 1,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 1,
+    "pontos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": -1,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 1,
+    "pontos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": -1,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 1,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 0,
+    "saldo_gols": 1,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 2,
+    "pontos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": -6,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 2,
+    "pontos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": -2,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 2,
+    "pontos": 6,
+    "vitorias": 2,
+    "empates": 0,
+    "derrotas": 0,
+    "saldo_gols": 2,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 2,
+    "pontos": 1,
+    "vitorias": 0,
+    "empates": 1,
+    "derrotas": 1,
+    "saldo_gols": -1,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 2,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": 0,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 2,
+    "pontos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": -6,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 2,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": -1,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 2,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": 0,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 2,
+    "pontos": 1,
+    "vitorias": 0,
+    "empates": 1,
+    "derrotas": 1,
+    "saldo_gols": -1,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 2,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": 2,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 2,
+    "pontos": 6,
+    "vitorias": 2,
+    "empates": 0,
+    "derrotas": 0,
+    "saldo_gols": 5,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 2,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 0,
+    "saldo_gols": 3,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 2,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": 0,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 2,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": 0,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 2,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 0,
+    "saldo_gols": 1,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 2,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 0,
+    "saldo_gols": 1,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 2,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 0,
+    "saldo_gols": 1,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 2,
+    "pontos": 1,
+    "vitorias": 0,
+    "empates": 1,
+    "derrotas": 1,
+    "saldo_gols": -1,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 2,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": 2,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 2,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 0,
+    "saldo_gols": 1,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 3,
+    "pontos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 3,
+    "saldo_gols": -7,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 3,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": -1,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 3,
+    "pontos": 9,
+    "vitorias": 3,
+    "empates": 0,
+    "derrotas": 0,
+    "saldo_gols": 3,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 3,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 1,
+    "saldo_gols": 0,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 3,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": -1,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 3,
+    "pontos": 1,
+    "vitorias": 0,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": -6,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 3,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": -2,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 3,
+    "pontos": 6,
+    "vitorias": 2,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": 3,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 3,
+    "pontos": 1,
+    "vitorias": 0,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": -2,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 3,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": 1,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 3,
+    "pontos": 6,
+    "vitorias": 2,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": 3,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 3,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 0,
+    "saldo_gols": 5,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 3,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": -1,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 3,
+    "pontos": 6,
+    "vitorias": 2,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": 1,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 3,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 0,
+    "saldo_gols": 2,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 3,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 0,
+    "saldo_gols": 2,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 3,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 1,
+    "saldo_gols": -2,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 3,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 1,
+    "saldo_gols": 0,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 3,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 1,
+    "saldo_gols": 2,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 3,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 1,
+    "saldo_gols": 0,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 4,
+    "pontos": 0,
+    "vitorias": 0,
+    "empates": 0,
+    "derrotas": 4,
+    "saldo_gols": -8,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 4,
+    "pontos": 6,
+    "vitorias": 2,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": 1,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 4,
+    "pontos": 12,
+    "vitorias": 4,
+    "empates": 0,
+    "derrotas": 0,
+    "saldo_gols": 5,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 4,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": -2,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 4,
+    "pontos": 6,
+    "vitorias": 2,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": 0,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 4,
+    "pontos": 1,
+    "vitorias": 0,
+    "empates": 1,
+    "derrotas": 3,
+    "saldo_gols": -8,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 4,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": -2,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 4,
+    "pontos": 9,
+    "vitorias": 3,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": 4,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 4,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": -1,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 4,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 3,
+    "saldo_gols": 0,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 4,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 1,
+    "saldo_gols": 3,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 4,
+    "pontos": 8,
+    "vitorias": 2,
+    "empates": 2,
+    "derrotas": 0,
+    "saldo_gols": 5,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 4,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 3,
+    "saldo_gols": -6,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 4,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 1,
+    "saldo_gols": 1,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 4,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 1,
+    "saldo_gols": 0,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 4,
+    "pontos": 10,
+    "vitorias": 3,
+    "empates": 1,
+    "derrotas": 0,
+    "saldo_gols": 7,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 4,
+    "pontos": 5,
+    "vitorias": 1,
+    "empates": 2,
+    "derrotas": 1,
+    "saldo_gols": -2,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 4,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": -1,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 4,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 1,
+    "saldo_gols": 4,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 4,
+    "pontos": 5,
+    "vitorias": 1,
+    "empates": 2,
+    "derrotas": 1,
+    "saldo_gols": 0,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 5,
+    "pontos": 1,
+    "vitorias": 0,
+    "empates": 1,
+    "derrotas": 4,
+    "saldo_gols": -8,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 5,
+    "pontos": 6,
+    "vitorias": 2,
+    "empates": 0,
+    "derrotas": 3,
+    "saldo_gols": -2,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 5,
+    "pontos": 15,
+    "vitorias": 5,
+    "empates": 0,
+    "derrotas": 0,
+    "saldo_gols": 8,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 5,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": 2,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 5,
+    "pontos": 9,
+    "vitorias": 3,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": 2,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 5,
+    "pontos": 2,
+    "vitorias": 0,
+    "empates": 2,
+    "derrotas": 3,
+    "saldo_gols": -8,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 5,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 3,
+    "saldo_gols": -5,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 5,
+    "pontos": 9,
+    "vitorias": 3,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": 2,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 5,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 3,
+    "saldo_gols": -5,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 5,
+    "pontos": 6,
+    "vitorias": 2,
+    "empates": 0,
+    "derrotas": 3,
+    "saldo_gols": 2,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 5,
+    "pontos": 10,
+    "vitorias": 3,
+    "empates": 1,
+    "derrotas": 1,
+    "saldo_gols": 5,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 5,
+    "pontos": 9,
+    "vitorias": 2,
+    "empates": 3,
+    "derrotas": 0,
+    "saldo_gols": 5,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 5,
+    "pontos": 3,
+    "vitorias": 1,
+    "empates": 0,
+    "derrotas": 4,
+    "saldo_gols": -8,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 5,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": -2,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 5,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": -2,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 5,
+    "pontos": 13,
+    "vitorias": 4,
+    "empates": 1,
+    "derrotas": 0,
+    "saldo_gols": 10,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 5,
+    "pontos": 6,
+    "vitorias": 1,
+    "empates": 3,
+    "derrotas": 1,
+    "saldo_gols": -2,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 5,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": 2,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 5,
+    "pontos": 8,
+    "vitorias": 2,
+    "empates": 2,
+    "derrotas": 1,
+    "saldo_gols": 4,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 5,
+    "pontos": 6,
+    "vitorias": 1,
+    "empates": 3,
+    "derrotas": 1,
+    "saldo_gols": 0,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 6,
+    "pontos": 1,
+    "vitorias": 0,
+    "empates": 1,
+    "derrotas": 5,
+    "saldo_gols": -12,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 6,
+    "pontos": 6,
+    "vitorias": 2,
+    "empates": 0,
+    "derrotas": 4,
+    "saldo_gols": -3,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 6,
+    "pontos": 15,
+    "vitorias": 5,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": 7,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 6,
+    "pontos": 10,
+    "vitorias": 3,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": 4,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 6,
+    "pontos": 12,
+    "vitorias": 4,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": 3,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 6,
+    "pontos": 2,
+    "vitorias": 0,
+    "empates": 2,
+    "derrotas": 4,
+    "saldo_gols": -9,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 6,
+    "pontos": 5,
+    "vitorias": 1,
+    "empates": 2,
+    "derrotas": 3,
+    "saldo_gols": -5,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 6,
+    "pontos": 12,
+    "vitorias": 4,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": 6,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 6,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 4,
+    "saldo_gols": -7,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 6,
+    "pontos": 9,
+    "vitorias": 3,
+    "empates": 0,
+    "derrotas": 3,
+    "saldo_gols": 3,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 6,
+    "pontos": 13,
+    "vitorias": 4,
+    "empates": 1,
+    "derrotas": 1,
+    "saldo_gols": 7,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 6,
+    "pontos": 10,
+    "vitorias": 2,
+    "empates": 4,
+    "derrotas": 0,
+    "saldo_gols": 5,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 6,
+    "pontos": 6,
+    "vitorias": 2,
+    "empates": 0,
+    "derrotas": 4,
+    "saldo_gols": -7,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 6,
+    "pontos": 8,
+    "vitorias": 2,
+    "empates": 2,
+    "derrotas": 2,
+    "saldo_gols": -2,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 6,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 3,
+    "saldo_gols": -4,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 6,
+    "pontos": 14,
+    "vitorias": 4,
+    "empates": 2,
+    "derrotas": 0,
+    "saldo_gols": 10,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 6,
+    "pontos": 7,
+    "vitorias": 1,
+    "empates": 4,
+    "derrotas": 1,
+    "saldo_gols": -2,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 6,
+    "pontos": 10,
+    "vitorias": 3,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": 3,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 6,
+    "pontos": 9,
+    "vitorias": 2,
+    "empates": 3,
+    "derrotas": 1,
+    "saldo_gols": 4,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 6,
+    "pontos": 6,
+    "vitorias": 1,
+    "empates": 3,
+    "derrotas": 2,
+    "saldo_gols": -1,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 7,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 5,
+    "saldo_gols": -11,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 7,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 4,
+    "saldo_gols": -3,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 7,
+    "pontos": 18,
+    "vitorias": 6,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": 8,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 7,
+    "pontos": 13,
+    "vitorias": 4,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": 5,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 7,
+    "pontos": 12,
+    "vitorias": 4,
+    "empates": 0,
+    "derrotas": 3,
+    "saldo_gols": 1,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 7,
+    "pontos": 2,
+    "vitorias": 0,
+    "empates": 2,
+    "derrotas": 5,
+    "saldo_gols": -10,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 7,
+    "pontos": 5,
+    "vitorias": 1,
+    "empates": 2,
+    "derrotas": 4,
+    "saldo_gols": -6,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 7,
+    "pontos": 12,
+    "vitorias": 4,
+    "empates": 0,
+    "derrotas": 3,
+    "saldo_gols": 5,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 7,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 4,
+    "saldo_gols": -6,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 7,
+    "pontos": 12,
+    "vitorias": 4,
+    "empates": 0,
+    "derrotas": 3,
+    "saldo_gols": 4,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 7,
+    "pontos": 13,
+    "vitorias": 4,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": 6,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 7,
+    "pontos": 10,
+    "vitorias": 2,
+    "empates": 4,
+    "derrotas": 1,
+    "saldo_gols": 4,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 7,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 4,
+    "saldo_gols": -7,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 7,
+    "pontos": 11,
+    "vitorias": 3,
+    "empates": 2,
+    "derrotas": 2,
+    "saldo_gols": 0,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 7,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 4,
+    "saldo_gols": -6,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 7,
+    "pontos": 15,
+    "vitorias": 4,
+    "empates": 3,
+    "derrotas": 0,
+    "saldo_gols": 10,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 7,
+    "pontos": 10,
+    "vitorias": 2,
+    "empates": 4,
+    "derrotas": 1,
+    "saldo_gols": 0,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 7,
+    "pontos": 11,
+    "vitorias": 3,
+    "empates": 2,
+    "derrotas": 2,
+    "saldo_gols": 3,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 7,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 1,
+    "saldo_gols": 6,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 7,
+    "pontos": 6,
+    "vitorias": 1,
+    "empates": 3,
+    "derrotas": 3,
+    "saldo_gols": -3,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 8,
+    "pontos": 4,
+    "vitorias": 1,
+    "empates": 1,
+    "derrotas": 6,
+    "saldo_gols": -13,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 8,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 5,
+    "saldo_gols": -5,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 8,
+    "pontos": 21,
+    "vitorias": 7,
+    "empates": 0,
+    "derrotas": 1,
+    "saldo_gols": 10,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 8,
+    "pontos": 14,
+    "vitorias": 4,
+    "empates": 2,
+    "derrotas": 2,
+    "saldo_gols": 5,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 8,
+    "pontos": 12,
+    "vitorias": 4,
+    "empates": 0,
+    "derrotas": 4,
+    "saldo_gols": 0,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 8,
+    "pontos": 3,
+    "vitorias": 0,
+    "empates": 3,
+    "derrotas": 5,
+    "saldo_gols": -10,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 8,
+    "pontos": 8,
+    "vitorias": 2,
+    "empates": 2,
+    "derrotas": 4,
+    "saldo_gols": -4,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 8,
+    "pontos": 13,
+    "vitorias": 4,
+    "empates": 1,
+    "derrotas": 3,
+    "saldo_gols": 5,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 8,
+    "pontos": 8,
+    "vitorias": 2,
+    "empates": 2,
+    "derrotas": 4,
+    "saldo_gols": -6,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 8,
+    "pontos": 13,
+    "vitorias": 4,
+    "empates": 1,
+    "derrotas": 3,
+    "saldo_gols": 4,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 8,
+    "pontos": 13,
+    "vitorias": 4,
+    "empates": 1,
+    "derrotas": 3,
+    "saldo_gols": 4,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 8,
+    "pontos": 13,
+    "vitorias": 3,
+    "empates": 4,
+    "derrotas": 1,
+    "saldo_gols": 6,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 8,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 5,
+    "saldo_gols": -8,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 8,
+    "pontos": 14,
+    "vitorias": 4,
+    "empates": 2,
+    "derrotas": 2,
+    "saldo_gols": 1,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 8,
+    "pontos": 10,
+    "vitorias": 3,
+    "empates": 1,
+    "derrotas": 4,
+    "saldo_gols": -4,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 8,
+    "pontos": 16,
+    "vitorias": 4,
+    "empates": 4,
+    "derrotas": 0,
+    "saldo_gols": 10,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 8,
+    "pontos": 13,
+    "vitorias": 3,
+    "empates": 4,
+    "derrotas": 1,
+    "saldo_gols": 2,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 8,
+    "pontos": 11,
+    "vitorias": 3,
+    "empates": 2,
+    "derrotas": 3,
+    "saldo_gols": 1,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 8,
+    "pontos": 15,
+    "vitorias": 4,
+    "empates": 3,
+    "derrotas": 1,
+    "saldo_gols": 7,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 8,
+    "pontos": 6,
+    "vitorias": 1,
+    "empates": 3,
+    "derrotas": 4,
+    "saldo_gols": -5,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 9,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 6,
+    "saldo_gols": -11,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 9,
+    "pontos": 8,
+    "vitorias": 2,
+    "empates": 2,
+    "derrotas": 5,
+    "saldo_gols": -5,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 9,
+    "pontos": 21,
+    "vitorias": 7,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": 9,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 9,
+    "pontos": 17,
+    "vitorias": 5,
+    "empates": 2,
+    "derrotas": 2,
+    "saldo_gols": 6,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 9,
+    "pontos": 15,
+    "vitorias": 5,
+    "empates": 0,
+    "derrotas": 4,
+    "saldo_gols": 1,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 9,
+    "pontos": 3,
+    "vitorias": 0,
+    "empates": 3,
+    "derrotas": 6,
+    "saldo_gols": -12,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 9,
+    "pontos": 8,
+    "vitorias": 2,
+    "empates": 2,
+    "derrotas": 5,
+    "saldo_gols": -6,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 9,
+    "pontos": 13,
+    "vitorias": 4,
+    "empates": 1,
+    "derrotas": 4,
+    "saldo_gols": 4,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 9,
+    "pontos": 11,
+    "vitorias": 3,
+    "empates": 2,
+    "derrotas": 4,
+    "saldo_gols": -5,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 9,
+    "pontos": 16,
+    "vitorias": 5,
+    "empates": 1,
+    "derrotas": 3,
+    "saldo_gols": 7,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 9,
+    "pontos": 16,
+    "vitorias": 5,
+    "empates": 1,
+    "derrotas": 3,
+    "saldo_gols": 5,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 9,
+    "pontos": 14,
+    "vitorias": 3,
+    "empates": 5,
+    "derrotas": 1,
+    "saldo_gols": 6,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 9,
+    "pontos": 7,
+    "vitorias": 2,
+    "empates": 1,
+    "derrotas": 6,
+    "saldo_gols": -9,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 9,
+    "pontos": 17,
+    "vitorias": 5,
+    "empates": 2,
+    "derrotas": 2,
+    "saldo_gols": 2,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 9,
+    "pontos": 11,
+    "vitorias": 3,
+    "empates": 2,
+    "derrotas": 4,
+    "saldo_gols": -4,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 9,
+    "pontos": 19,
+    "vitorias": 5,
+    "empates": 4,
+    "derrotas": 0,
+    "saldo_gols": 12,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 9,
+    "pontos": 13,
+    "vitorias": 3,
+    "empates": 4,
+    "derrotas": 2,
+    "saldo_gols": 1,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 9,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 3,
+    "saldo_gols": 1,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 9,
+    "pontos": 15,
+    "vitorias": 4,
+    "empates": 3,
+    "derrotas": 2,
+    "saldo_gols": 6,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 9,
+    "pontos": 6,
+    "vitorias": 1,
+    "empates": 3,
+    "derrotas": 5,
+    "saldo_gols": -8,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 10,
+    "pontos": 8,
+    "vitorias": 2,
+    "empates": 2,
+    "derrotas": 6,
+    "saldo_gols": -11,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 10,
+    "pontos": 9,
+    "vitorias": 2,
+    "empates": 3,
+    "derrotas": 5,
+    "saldo_gols": -5,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 10,
+    "pontos": 24,
+    "vitorias": 8,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": 11,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 10,
+    "pontos": 18,
+    "vitorias": 5,
+    "empates": 3,
+    "derrotas": 2,
+    "saldo_gols": 6,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 10,
+    "pontos": 16,
+    "vitorias": 5,
+    "empates": 1,
+    "derrotas": 4,
+    "saldo_gols": 1,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 10,
+    "pontos": 4,
+    "vitorias": 0,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": -12,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 10,
+    "pontos": 9,
+    "vitorias": 2,
+    "empates": 3,
+    "derrotas": 5,
+    "saldo_gols": -6,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 10,
+    "pontos": 14,
+    "vitorias": 4,
+    "empates": 2,
+    "derrotas": 4,
+    "saldo_gols": 4,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 10,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 4,
+    "saldo_gols": -5,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 10,
+    "pontos": 19,
+    "vitorias": 6,
+    "empates": 1,
+    "derrotas": 3,
+    "saldo_gols": 10,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 10,
+    "pontos": 17,
+    "vitorias": 5,
+    "empates": 2,
+    "derrotas": 3,
+    "saldo_gols": 5,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 10,
+    "pontos": 14,
+    "vitorias": 3,
+    "empates": 5,
+    "derrotas": 2,
+    "saldo_gols": 4,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 10,
+    "pontos": 8,
+    "vitorias": 2,
+    "empates": 2,
+    "derrotas": 6,
+    "saldo_gols": -9,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 10,
+    "pontos": 17,
+    "vitorias": 5,
+    "empates": 2,
+    "derrotas": 3,
+    "saldo_gols": -1,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 10,
+    "pontos": 14,
+    "vitorias": 4,
+    "empates": 2,
+    "derrotas": 4,
+    "saldo_gols": -3,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 10,
+    "pontos": 22,
+    "vitorias": 6,
+    "empates": 4,
+    "derrotas": 0,
+    "saldo_gols": 14,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 10,
+    "pontos": 14,
+    "vitorias": 3,
+    "empates": 5,
+    "derrotas": 2,
+    "saldo_gols": 1,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 10,
+    "pontos": 13,
+    "vitorias": 3,
+    "empates": 4,
+    "derrotas": 3,
+    "saldo_gols": 1,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 10,
+    "pontos": 15,
+    "vitorias": 4,
+    "empates": 3,
+    "derrotas": 3,
+    "saldo_gols": 4,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 10,
+    "pontos": 6,
+    "vitorias": 1,
+    "empates": 3,
+    "derrotas": 6,
+    "saldo_gols": -9,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 11,
+    "pontos": 8,
+    "vitorias": 2,
+    "empates": 2,
+    "derrotas": 7,
+    "saldo_gols": -13,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 11,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 5,
+    "saldo_gols": -4,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 11,
+    "pontos": 27,
+    "vitorias": 9,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": 12,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 11,
+    "pontos": 19,
+    "vitorias": 5,
+    "empates": 4,
+    "derrotas": 2,
+    "saldo_gols": 6,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 11,
+    "pontos": 16,
+    "vitorias": 5,
+    "empates": 1,
+    "derrotas": 5,
+    "saldo_gols": 0,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 11,
+    "pontos": 4,
+    "vitorias": 0,
+    "empates": 4,
+    "derrotas": 7,
+    "saldo_gols": -13,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 11,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 5,
+    "saldo_gols": -4,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 11,
+    "pontos": 14,
+    "vitorias": 4,
+    "empates": 2,
+    "derrotas": 5,
+    "saldo_gols": 3,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 11,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 5,
+    "saldo_gols": -6,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 11,
+    "pontos": 19,
+    "vitorias": 6,
+    "empates": 1,
+    "derrotas": 4,
+    "saldo_gols": 6,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 11,
+    "pontos": 18,
+    "vitorias": 5,
+    "empates": 3,
+    "derrotas": 3,
+    "saldo_gols": 5,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 11,
+    "pontos": 17,
+    "vitorias": 4,
+    "empates": 5,
+    "derrotas": 2,
+    "saldo_gols": 5,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 11,
+    "pontos": 11,
+    "vitorias": 3,
+    "empates": 2,
+    "derrotas": 6,
+    "saldo_gols": -8,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 11,
+    "pontos": 20,
+    "vitorias": 6,
+    "empates": 2,
+    "derrotas": 3,
+    "saldo_gols": 1,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 11,
+    "pontos": 17,
+    "vitorias": 5,
+    "empates": 2,
+    "derrotas": 4,
+    "saldo_gols": -2,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 11,
+    "pontos": 22,
+    "vitorias": 6,
+    "empates": 4,
+    "derrotas": 1,
+    "saldo_gols": 13,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 11,
+    "pontos": 17,
+    "vitorias": 4,
+    "empates": 5,
+    "derrotas": 2,
+    "saldo_gols": 5,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 11,
+    "pontos": 13,
+    "vitorias": 3,
+    "empates": 4,
+    "derrotas": 4,
+    "saldo_gols": -1,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 11,
+    "pontos": 18,
+    "vitorias": 5,
+    "empates": 3,
+    "derrotas": 3,
+    "saldo_gols": 5,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 11,
+    "pontos": 6,
+    "vitorias": 1,
+    "empates": 3,
+    "derrotas": 7,
+    "saldo_gols": -10,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 12,
+    "pontos": 8,
+    "vitorias": 2,
+    "empates": 2,
+    "derrotas": 8,
+    "saldo_gols": -14,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 12,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 6,
+    "saldo_gols": -5,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 12,
+    "pontos": 30,
+    "vitorias": 10,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": 13,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 12,
+    "pontos": 19,
+    "vitorias": 5,
+    "empates": 4,
+    "derrotas": 3,
+    "saldo_gols": 5,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 12,
+    "pontos": 19,
+    "vitorias": 6,
+    "empates": 1,
+    "derrotas": 5,
+    "saldo_gols": 1,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 12,
+    "pontos": 4,
+    "vitorias": 0,
+    "empates": 4,
+    "derrotas": 8,
+    "saldo_gols": -17,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 12,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 6,
+    "saldo_gols": -5,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 12,
+    "pontos": 17,
+    "vitorias": 5,
+    "empates": 2,
+    "derrotas": 5,
+    "saldo_gols": 4,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 12,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 6,
+    "saldo_gols": -7,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 12,
+    "pontos": 22,
+    "vitorias": 7,
+    "empates": 1,
+    "derrotas": 4,
+    "saldo_gols": 7,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 12,
+    "pontos": 21,
+    "vitorias": 6,
+    "empates": 3,
+    "derrotas": 3,
+    "saldo_gols": 6,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 12,
+    "pontos": 20,
+    "vitorias": 5,
+    "empates": 5,
+    "derrotas": 2,
+    "saldo_gols": 6,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 12,
+    "pontos": 11,
+    "vitorias": 3,
+    "empates": 2,
+    "derrotas": 7,
+    "saldo_gols": -10,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 12,
+    "pontos": 23,
+    "vitorias": 7,
+    "empates": 2,
+    "derrotas": 3,
+    "saldo_gols": 5,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 12,
+    "pontos": 20,
+    "vitorias": 6,
+    "empates": 2,
+    "derrotas": 4,
+    "saldo_gols": -1,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 12,
+    "pontos": 22,
+    "vitorias": 6,
+    "empates": 4,
+    "derrotas": 2,
+    "saldo_gols": 12,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 12,
+    "pontos": 20,
+    "vitorias": 5,
+    "empates": 5,
+    "derrotas": 2,
+    "saldo_gols": 7,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 12,
+    "pontos": 13,
+    "vitorias": 3,
+    "empates": 4,
+    "derrotas": 5,
+    "saldo_gols": -2,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 12,
+    "pontos": 18,
+    "vitorias": 5,
+    "empates": 3,
+    "derrotas": 4,
+    "saldo_gols": 4,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 12,
+    "pontos": 9,
+    "vitorias": 2,
+    "empates": 3,
+    "derrotas": 7,
+    "saldo_gols": -9,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 13,
+    "pontos": 9,
+    "vitorias": 2,
+    "empates": 3,
+    "derrotas": 8,
+    "saldo_gols": -14,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 13,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 7,
+    "saldo_gols": -6,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 13,
+    "pontos": 33,
+    "vitorias": 11,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": 15,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 13,
+    "pontos": 20,
+    "vitorias": 5,
+    "empates": 5,
+    "derrotas": 3,
+    "saldo_gols": 5,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 13,
+    "pontos": 20,
+    "vitorias": 6,
+    "empates": 2,
+    "derrotas": 5,
+    "saldo_gols": 1,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 13,
+    "pontos": 7,
+    "vitorias": 1,
+    "empates": 4,
+    "derrotas": 8,
+    "saldo_gols": -16,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 13,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 7,
+    "saldo_gols": -6,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 13,
+    "pontos": 18,
+    "vitorias": 5,
+    "empates": 3,
+    "derrotas": 5,
+    "saldo_gols": 4,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 13,
+    "pontos": 15,
+    "vitorias": 4,
+    "empates": 3,
+    "derrotas": 6,
+    "saldo_gols": -4,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 13,
+    "pontos": 25,
+    "vitorias": 8,
+    "empates": 1,
+    "derrotas": 4,
+    "saldo_gols": 9,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 13,
+    "pontos": 21,
+    "vitorias": 6,
+    "empates": 3,
+    "derrotas": 4,
+    "saldo_gols": 5,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 13,
+    "pontos": 20,
+    "vitorias": 5,
+    "empates": 5,
+    "derrotas": 3,
+    "saldo_gols": 4,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 13,
+    "pontos": 11,
+    "vitorias": 3,
+    "empates": 2,
+    "derrotas": 8,
+    "saldo_gols": -11,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 13,
+    "pontos": 26,
+    "vitorias": 8,
+    "empates": 2,
+    "derrotas": 3,
+    "saldo_gols": 6,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 13,
+    "pontos": 21,
+    "vitorias": 6,
+    "empates": 3,
+    "derrotas": 4,
+    "saldo_gols": -1,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 13,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 2,
+    "saldo_gols": 12,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 13,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 2,
+    "saldo_gols": 8,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 13,
+    "pontos": 13,
+    "vitorias": 3,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": -5,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 13,
+    "pontos": 21,
+    "vitorias": 6,
+    "empates": 3,
+    "derrotas": 4,
+    "saldo_gols": 5,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 13,
+    "pontos": 9,
+    "vitorias": 2,
+    "empates": 3,
+    "derrotas": 8,
+    "saldo_gols": -11,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 14,
+    "pontos": 9,
+    "vitorias": 2,
+    "empates": 3,
+    "derrotas": 9,
+    "saldo_gols": -16,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 14,
+    "pontos": 13,
+    "vitorias": 3,
+    "empates": 4,
+    "derrotas": 7,
+    "saldo_gols": -6,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 14,
+    "pontos": 36,
+    "vitorias": 12,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": 17,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 14,
+    "pontos": 20,
+    "vitorias": 5,
+    "empates": 5,
+    "derrotas": 4,
+    "saldo_gols": 4,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 14,
+    "pontos": 20,
+    "vitorias": 6,
+    "empates": 2,
+    "derrotas": 6,
+    "saldo_gols": 0,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 14,
+    "pontos": 10,
+    "vitorias": 2,
+    "empates": 4,
+    "derrotas": 8,
+    "saldo_gols": -14,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 14,
+    "pontos": 15,
+    "vitorias": 4,
+    "empates": 3,
+    "derrotas": 7,
+    "saldo_gols": -5,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 14,
+    "pontos": 21,
+    "vitorias": 6,
+    "empates": 3,
+    "derrotas": 5,
+    "saldo_gols": 5,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 14,
+    "pontos": 16,
+    "vitorias": 4,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": -4,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 14,
+    "pontos": 26,
+    "vitorias": 8,
+    "empates": 2,
+    "derrotas": 4,
+    "saldo_gols": 9,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 14,
+    "pontos": 24,
+    "vitorias": 7,
+    "empates": 3,
+    "derrotas": 4,
+    "saldo_gols": 7,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 14,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 3,
+    "saldo_gols": 5,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 14,
+    "pontos": 11,
+    "vitorias": 3,
+    "empates": 2,
+    "derrotas": 9,
+    "saldo_gols": -12,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 14,
+    "pontos": 26,
+    "vitorias": 8,
+    "empates": 2,
+    "derrotas": 4,
+    "saldo_gols": 4,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 14,
+    "pontos": 21,
+    "vitorias": 6,
+    "empates": 3,
+    "derrotas": 5,
+    "saldo_gols": -3,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 14,
+    "pontos": 24,
+    "vitorias": 6,
+    "empates": 6,
+    "derrotas": 2,
+    "saldo_gols": 12,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 14,
+    "pontos": 24,
+    "vitorias": 6,
+    "empates": 6,
+    "derrotas": 2,
+    "saldo_gols": 8,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 14,
+    "pontos": 16,
+    "vitorias": 4,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": -4,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 14,
+    "pontos": 22,
+    "vitorias": 6,
+    "empates": 4,
+    "derrotas": 4,
+    "saldo_gols": 5,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 14,
+    "pontos": 9,
+    "vitorias": 2,
+    "empates": 3,
+    "derrotas": 9,
+    "saldo_gols": -12,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 15,
+    "pontos": 9,
+    "vitorias": 2,
+    "empates": 3,
+    "derrotas": 10,
+    "saldo_gols": -17,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 15,
+    "pontos": 13,
+    "vitorias": 3,
+    "empates": 4,
+    "derrotas": 8,
+    "saldo_gols": -8,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 15,
+    "pontos": 39,
+    "vitorias": 13,
+    "empates": 0,
+    "derrotas": 2,
+    "saldo_gols": 19,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 15,
+    "pontos": 21,
+    "vitorias": 5,
+    "empates": 6,
+    "derrotas": 4,
+    "saldo_gols": 4,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 15,
+    "pontos": 23,
+    "vitorias": 7,
+    "empates": 2,
+    "derrotas": 6,
+    "saldo_gols": 2,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 15,
+    "pontos": 11,
+    "vitorias": 2,
+    "empates": 5,
+    "derrotas": 8,
+    "saldo_gols": -14,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 15,
+    "pontos": 16,
+    "vitorias": 4,
+    "empates": 4,
+    "derrotas": 7,
+    "saldo_gols": -5,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 15,
+    "pontos": 22,
+    "vitorias": 6,
+    "empates": 4,
+    "derrotas": 5,
+    "saldo_gols": 5,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 15,
+    "pontos": 19,
+    "vitorias": 5,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": -3,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 15,
+    "pontos": 27,
+    "vitorias": 8,
+    "empates": 3,
+    "derrotas": 4,
+    "saldo_gols": 9,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 15,
+    "pontos": 25,
+    "vitorias": 7,
+    "empates": 4,
+    "derrotas": 4,
+    "saldo_gols": 7,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 15,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 4,
+    "saldo_gols": 4,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 15,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 9,
+    "saldo_gols": -12,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 15,
+    "pontos": 27,
+    "vitorias": 8,
+    "empates": 3,
+    "derrotas": 4,
+    "saldo_gols": 4,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 15,
+    "pontos": 22,
+    "vitorias": 6,
+    "empates": 4,
+    "derrotas": 5,
+    "saldo_gols": -3,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 15,
+    "pontos": 25,
+    "vitorias": 6,
+    "empates": 7,
+    "derrotas": 2,
+    "saldo_gols": 12,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 15,
+    "pontos": 24,
+    "vitorias": 6,
+    "empates": 6,
+    "derrotas": 3,
+    "saldo_gols": 6,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 15,
+    "pontos": 16,
+    "vitorias": 4,
+    "empates": 4,
+    "derrotas": 7,
+    "saldo_gols": -7,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 15,
+    "pontos": 25,
+    "vitorias": 7,
+    "empates": 4,
+    "derrotas": 4,
+    "saldo_gols": 8,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 15,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 9,
+    "saldo_gols": -11,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 16,
+    "pontos": 10,
+    "vitorias": 2,
+    "empates": 4,
+    "derrotas": 10,
+    "saldo_gols": -17,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 16,
+    "pontos": 14,
+    "vitorias": 3,
+    "empates": 5,
+    "derrotas": 8,
+    "saldo_gols": -8,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 16,
+    "pontos": 40,
+    "vitorias": 13,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": 19,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 16,
+    "pontos": 21,
+    "vitorias": 5,
+    "empates": 6,
+    "derrotas": 5,
+    "saldo_gols": 3,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 16,
+    "pontos": 26,
+    "vitorias": 8,
+    "empates": 2,
+    "derrotas": 6,
+    "saldo_gols": 4,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 16,
+    "pontos": 14,
+    "vitorias": 3,
+    "empates": 5,
+    "derrotas": 8,
+    "saldo_gols": -12,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 16,
+    "pontos": 17,
+    "vitorias": 4,
+    "empates": 5,
+    "derrotas": 7,
+    "saldo_gols": -5,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 16,
+    "pontos": 22,
+    "vitorias": 6,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": 4,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 16,
+    "pontos": 22,
+    "vitorias": 6,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": -2,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 16,
+    "pontos": 28,
+    "vitorias": 8,
+    "empates": 4,
+    "derrotas": 4,
+    "saldo_gols": 9,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 16,
+    "pontos": 25,
+    "vitorias": 7,
+    "empates": 4,
+    "derrotas": 5,
+    "saldo_gols": 5,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 16,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 5,
+    "saldo_gols": 2,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 16,
+    "pontos": 15,
+    "vitorias": 4,
+    "empates": 3,
+    "derrotas": 9,
+    "saldo_gols": -11,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 16,
+    "pontos": 30,
+    "vitorias": 9,
+    "empates": 3,
+    "derrotas": 4,
+    "saldo_gols": 5,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 16,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 5,
+    "saldo_gols": -3,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 16,
+    "pontos": 28,
+    "vitorias": 7,
+    "empates": 7,
+    "derrotas": 2,
+    "saldo_gols": 14,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 16,
+    "pontos": 25,
+    "vitorias": 6,
+    "empates": 7,
+    "derrotas": 3,
+    "saldo_gols": 6,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 16,
+    "pontos": 17,
+    "vitorias": 4,
+    "empates": 5,
+    "derrotas": 7,
+    "saldo_gols": -7,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 16,
+    "pontos": 25,
+    "vitorias": 7,
+    "empates": 4,
+    "derrotas": 5,
+    "saldo_gols": 7,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 16,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 10,
+    "saldo_gols": -13,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 17,
+    "pontos": 10,
+    "vitorias": 2,
+    "empates": 4,
+    "derrotas": 11,
+    "saldo_gols": -20,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 17,
+    "pontos": 15,
+    "vitorias": 3,
+    "empates": 6,
+    "derrotas": 8,
+    "saldo_gols": -8,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 17,
+    "pontos": 43,
+    "vitorias": 14,
+    "empates": 1,
+    "derrotas": 2,
+    "saldo_gols": 22,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 17,
+    "pontos": 21,
+    "vitorias": 5,
+    "empates": 6,
+    "derrotas": 6,
+    "saldo_gols": 2,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 17,
+    "pontos": 27,
+    "vitorias": 8,
+    "empates": 3,
+    "derrotas": 6,
+    "saldo_gols": 4,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 17,
+    "pontos": 14,
+    "vitorias": 3,
+    "empates": 5,
+    "derrotas": 9,
+    "saldo_gols": -15,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 17,
+    "pontos": 20,
+    "vitorias": 5,
+    "empates": 5,
+    "derrotas": 7,
+    "saldo_gols": -3,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 17,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 6,
+    "saldo_gols": 4,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 17,
+    "pontos": 25,
+    "vitorias": 7,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": -1,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 17,
+    "pontos": 31,
+    "vitorias": 9,
+    "empates": 4,
+    "derrotas": 4,
+    "saldo_gols": 10,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 17,
+    "pontos": 28,
+    "vitorias": 8,
+    "empates": 4,
+    "derrotas": 5,
+    "saldo_gols": 6,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 17,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 6,
+    "saldo_gols": -1,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 17,
+    "pontos": 16,
+    "vitorias": 4,
+    "empates": 4,
+    "derrotas": 9,
+    "saldo_gols": -11,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 17,
+    "pontos": 31,
+    "vitorias": 9,
+    "empates": 4,
+    "derrotas": 4,
+    "saldo_gols": 5,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 17,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 6,
+    "saldo_gols": -4,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 17,
+    "pontos": 31,
+    "vitorias": 8,
+    "empates": 7,
+    "derrotas": 2,
+    "saldo_gols": 17,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 17,
+    "pontos": 28,
+    "vitorias": 7,
+    "empates": 7,
+    "derrotas": 3,
+    "saldo_gols": 9,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 17,
+    "pontos": 17,
+    "vitorias": 4,
+    "empates": 5,
+    "derrotas": 8,
+    "saldo_gols": -8,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 17,
+    "pontos": 26,
+    "vitorias": 7,
+    "empates": 5,
+    "derrotas": 5,
+    "saldo_gols": 7,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 17,
+    "pontos": 12,
+    "vitorias": 3,
+    "empates": 3,
+    "derrotas": 11,
+    "saldo_gols": -15,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 18,
+    "pontos": 10,
+    "vitorias": 2,
+    "empates": 4,
+    "derrotas": 12,
+    "saldo_gols": -22,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 18,
+    "pontos": 18,
+    "vitorias": 4,
+    "empates": 6,
+    "derrotas": 8,
+    "saldo_gols": -6,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 18,
+    "pontos": 44,
+    "vitorias": 14,
+    "empates": 2,
+    "derrotas": 2,
+    "saldo_gols": 22,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 18,
+    "pontos": 24,
+    "vitorias": 6,
+    "empates": 6,
+    "derrotas": 6,
+    "saldo_gols": 4,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 18,
+    "pontos": 28,
+    "vitorias": 8,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": 4,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 18,
+    "pontos": 14,
+    "vitorias": 3,
+    "empates": 5,
+    "derrotas": 10,
+    "saldo_gols": -16,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 18,
+    "pontos": 21,
+    "vitorias": 5,
+    "empates": 6,
+    "derrotas": 7,
+    "saldo_gols": -3,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 18,
+    "pontos": 24,
+    "vitorias": 6,
+    "empates": 6,
+    "derrotas": 6,
+    "saldo_gols": 4,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 18,
+    "pontos": 28,
+    "vitorias": 8,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": 2,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 18,
+    "pontos": 31,
+    "vitorias": 9,
+    "empates": 4,
+    "derrotas": 5,
+    "saldo_gols": 7,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 18,
+    "pontos": 31,
+    "vitorias": 9,
+    "empates": 4,
+    "derrotas": 5,
+    "saldo_gols": 7,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 18,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 7,
+    "saldo_gols": -2,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 18,
+    "pontos": 19,
+    "vitorias": 5,
+    "empates": 4,
+    "derrotas": 9,
+    "saldo_gols": -10,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 18,
+    "pontos": 31,
+    "vitorias": 9,
+    "empates": 4,
+    "derrotas": 5,
+    "saldo_gols": 4,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 18,
+    "pontos": 24,
+    "vitorias": 6,
+    "empates": 6,
+    "derrotas": 6,
+    "saldo_gols": -4,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 18,
+    "pontos": 31,
+    "vitorias": 8,
+    "empates": 7,
+    "derrotas": 3,
+    "saldo_gols": 16,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 18,
+    "pontos": 31,
+    "vitorias": 8,
+    "empates": 7,
+    "derrotas": 3,
+    "saldo_gols": 10,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 18,
+    "pontos": 18,
+    "vitorias": 4,
+    "empates": 6,
+    "derrotas": 8,
+    "saldo_gols": -8,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 18,
+    "pontos": 26,
+    "vitorias": 7,
+    "empates": 5,
+    "derrotas": 6,
+    "saldo_gols": 5,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 18,
+    "pontos": 15,
+    "vitorias": 4,
+    "empates": 3,
+    "derrotas": 11,
+    "saldo_gols": -14,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 19,
+    "pontos": 10,
+    "vitorias": 2,
+    "empates": 4,
+    "derrotas": 13,
+    "saldo_gols": -23,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 19,
+    "pontos": 18,
+    "vitorias": 4,
+    "empates": 6,
+    "derrotas": 9,
+    "saldo_gols": -7,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 19,
+    "pontos": 47,
+    "vitorias": 15,
+    "empates": 2,
+    "derrotas": 2,
+    "saldo_gols": 24,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 19,
+    "pontos": 27,
+    "vitorias": 7,
+    "empates": 6,
+    "derrotas": 6,
+    "saldo_gols": 5,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 19,
+    "pontos": 31,
+    "vitorias": 9,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": 6,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 19,
+    "pontos": 14,
+    "vitorias": 3,
+    "empates": 5,
+    "derrotas": 11,
+    "saldo_gols": -18,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 19,
+    "pontos": 24,
+    "vitorias": 6,
+    "empates": 6,
+    "derrotas": 7,
+    "saldo_gols": -1,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 19,
+    "pontos": 24,
+    "vitorias": 6,
+    "empates": 6,
+    "derrotas": 7,
+    "saldo_gols": 3,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 19,
+    "pontos": 28,
+    "vitorias": 8,
+    "empates": 4,
+    "derrotas": 7,
+    "saldo_gols": 0,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 19,
+    "pontos": 32,
+    "vitorias": 9,
+    "empates": 5,
+    "derrotas": 5,
+    "saldo_gols": 7,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 19,
+    "pontos": 31,
+    "vitorias": 9,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": 6,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 19,
+    "pontos": 26,
+    "vitorias": 7,
+    "empates": 5,
+    "derrotas": 7,
+    "saldo_gols": 2,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 19,
+    "pontos": 22,
+    "vitorias": 6,
+    "empates": 4,
+    "derrotas": 9,
+    "saldo_gols": -9,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 19,
+    "pontos": 34,
+    "vitorias": 10,
+    "empates": 4,
+    "derrotas": 5,
+    "saldo_gols": 5,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 19,
+    "pontos": 24,
+    "vitorias": 6,
+    "empates": 6,
+    "derrotas": 7,
+    "saldo_gols": -6,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 19,
+    "pontos": 34,
+    "vitorias": 9,
+    "empates": 7,
+    "derrotas": 3,
+    "saldo_gols": 17,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 19,
+    "pontos": 32,
+    "vitorias": 8,
+    "empates": 8,
+    "derrotas": 3,
+    "saldo_gols": 10,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 19,
+    "pontos": 18,
+    "vitorias": 4,
+    "empates": 6,
+    "derrotas": 9,
+    "saldo_gols": -12,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 19,
+    "pontos": 27,
+    "vitorias": 7,
+    "empates": 6,
+    "derrotas": 6,
+    "saldo_gols": 5,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 19,
+    "pontos": 16,
+    "vitorias": 4,
+    "empates": 4,
+    "derrotas": 11,
+    "saldo_gols": -14,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 20,
+    "pontos": 10,
+    "vitorias": 2,
+    "empates": 4,
+    "derrotas": 14,
+    "saldo_gols": -25,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 20,
+    "pontos": 21,
+    "vitorias": 5,
+    "empates": 6,
+    "derrotas": 9,
+    "saldo_gols": -3,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 20,
+    "pontos": 48,
+    "vitorias": 15,
+    "empates": 3,
+    "derrotas": 2,
+    "saldo_gols": 24,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 20,
+    "pontos": 27,
+    "vitorias": 7,
+    "empates": 6,
+    "derrotas": 7,
+    "saldo_gols": 4,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 20,
+    "pontos": 32,
+    "vitorias": 9,
+    "empates": 5,
+    "derrotas": 6,
+    "saldo_gols": 6,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 20,
+    "pontos": 14,
+    "vitorias": 3,
+    "empates": 5,
+    "derrotas": 12,
+    "saldo_gols": -19,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 20,
+    "pontos": 25,
+    "vitorias": 6,
+    "empates": 7,
+    "derrotas": 7,
+    "saldo_gols": -1,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 20,
+    "pontos": 25,
+    "vitorias": 6,
+    "empates": 7,
+    "derrotas": 7,
+    "saldo_gols": 3,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 20,
+    "pontos": 28,
+    "vitorias": 8,
+    "empates": 4,
+    "derrotas": 8,
+    "saldo_gols": -2,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 20,
+    "pontos": 35,
+    "vitorias": 10,
+    "empates": 5,
+    "derrotas": 5,
+    "saldo_gols": 8,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 20,
+    "pontos": 34,
+    "vitorias": 10,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": 8,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 20,
+    "pontos": 29,
+    "vitorias": 8,
+    "empates": 5,
+    "derrotas": 7,
+    "saldo_gols": 3,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 20,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 9,
+    "saldo_gols": -9,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 20,
+    "pontos": 34,
+    "vitorias": 10,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": 4,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 20,
+    "pontos": 24,
+    "vitorias": 6,
+    "empates": 6,
+    "derrotas": 8,
+    "saldo_gols": -7,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 20,
+    "pontos": 37,
+    "vitorias": 10,
+    "empates": 7,
+    "derrotas": 3,
+    "saldo_gols": 19,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 20,
+    "pontos": 32,
+    "vitorias": 8,
+    "empates": 8,
+    "derrotas": 4,
+    "saldo_gols": 6,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 20,
+    "pontos": 21,
+    "vitorias": 5,
+    "empates": 6,
+    "derrotas": 9,
+    "saldo_gols": -11,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 20,
+    "pontos": 28,
+    "vitorias": 7,
+    "empates": 7,
+    "derrotas": 6,
+    "saldo_gols": 5,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 20,
+    "pontos": 19,
+    "vitorias": 5,
+    "empates": 4,
+    "derrotas": 11,
+    "saldo_gols": -13,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 21,
+    "pontos": 13,
+    "vitorias": 3,
+    "empates": 4,
+    "derrotas": 14,
+    "saldo_gols": -24,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 21,
+    "pontos": 21,
+    "vitorias": 5,
+    "empates": 6,
+    "derrotas": 10,
+    "saldo_gols": -6,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 21,
+    "pontos": 51,
+    "vitorias": 16,
+    "empates": 3,
+    "derrotas": 2,
+    "saldo_gols": 27,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 21,
+    "pontos": 30,
+    "vitorias": 8,
+    "empates": 6,
+    "derrotas": 7,
+    "saldo_gols": 6,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 21,
+    "pontos": 33,
+    "vitorias": 9,
+    "empates": 6,
+    "derrotas": 6,
+    "saldo_gols": 6,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 21,
+    "pontos": 14,
+    "vitorias": 3,
+    "empates": 5,
+    "derrotas": 13,
+    "saldo_gols": -21,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 21,
+    "pontos": 26,
+    "vitorias": 6,
+    "empates": 8,
+    "derrotas": 7,
+    "saldo_gols": -1,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 21,
+    "pontos": 25,
+    "vitorias": 6,
+    "empates": 7,
+    "derrotas": 8,
+    "saldo_gols": 0,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 21,
+    "pontos": 28,
+    "vitorias": 8,
+    "empates": 4,
+    "derrotas": 9,
+    "saldo_gols": -4,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 21,
+    "pontos": 36,
+    "vitorias": 10,
+    "empates": 6,
+    "derrotas": 5,
+    "saldo_gols": 8,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 21,
+    "pontos": 35,
+    "vitorias": 10,
+    "empates": 5,
+    "derrotas": 6,
+    "saldo_gols": 8,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 21,
+    "pontos": 32,
+    "vitorias": 9,
+    "empates": 5,
+    "derrotas": 7,
+    "saldo_gols": 5,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 21,
+    "pontos": 24,
+    "vitorias": 6,
+    "empates": 6,
+    "derrotas": 9,
+    "saldo_gols": -9,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 21,
+    "pontos": 37,
+    "vitorias": 11,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": 7,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 21,
+    "pontos": 25,
+    "vitorias": 6,
+    "empates": 7,
+    "derrotas": 8,
+    "saldo_gols": -7,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 21,
+    "pontos": 40,
+    "vitorias": 11,
+    "empates": 7,
+    "derrotas": 3,
+    "saldo_gols": 20,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 21,
+    "pontos": 35,
+    "vitorias": 9,
+    "empates": 8,
+    "derrotas": 4,
+    "saldo_gols": 8,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 21,
+    "pontos": 21,
+    "vitorias": 5,
+    "empates": 6,
+    "derrotas": 10,
+    "saldo_gols": -13,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 21,
+    "pontos": 28,
+    "vitorias": 7,
+    "empates": 7,
+    "derrotas": 7,
+    "saldo_gols": 4,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 21,
+    "pontos": 19,
+    "vitorias": 5,
+    "empates": 4,
+    "derrotas": 12,
+    "saldo_gols": -14,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 22,
+    "pontos": 16,
+    "vitorias": 4,
+    "empates": 4,
+    "derrotas": 14,
+    "saldo_gols": -22,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 22,
+    "pontos": 22,
+    "vitorias": 5,
+    "empates": 7,
+    "derrotas": 10,
+    "saldo_gols": -6,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 22,
+    "pontos": 51,
+    "vitorias": 16,
+    "empates": 3,
+    "derrotas": 3,
+    "saldo_gols": 26,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 22,
+    "pontos": 31,
+    "vitorias": 8,
+    "empates": 7,
+    "derrotas": 7,
+    "saldo_gols": 6,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 22,
+    "pontos": 34,
+    "vitorias": 9,
+    "empates": 7,
+    "derrotas": 6,
+    "saldo_gols": 6,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 22,
+    "pontos": 14,
+    "vitorias": 3,
+    "empates": 5,
+    "derrotas": 14,
+    "saldo_gols": -22,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 22,
+    "pontos": 27,
+    "vitorias": 6,
+    "empates": 9,
+    "derrotas": 7,
+    "saldo_gols": -1,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 22,
+    "pontos": 26,
+    "vitorias": 6,
+    "empates": 8,
+    "derrotas": 8,
+    "saldo_gols": 0,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 22,
+    "pontos": 28,
+    "vitorias": 8,
+    "empates": 4,
+    "derrotas": 10,
+    "saldo_gols": -6,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 22,
+    "pontos": 39,
+    "vitorias": 11,
+    "empates": 6,
+    "derrotas": 5,
+    "saldo_gols": 9,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 22,
+    "pontos": 38,
+    "vitorias": 11,
+    "empates": 5,
+    "derrotas": 6,
+    "saldo_gols": 9,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 22,
+    "pontos": 32,
+    "vitorias": 9,
+    "empates": 5,
+    "derrotas": 8,
+    "saldo_gols": 4,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 22,
+    "pontos": 25,
+    "vitorias": 6,
+    "empates": 7,
+    "derrotas": 9,
+    "saldo_gols": -9,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 22,
+    "pontos": 40,
+    "vitorias": 12,
+    "empates": 4,
+    "derrotas": 6,
+    "saldo_gols": 9,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 22,
+    "pontos": 26,
+    "vitorias": 6,
+    "empates": 8,
+    "derrotas": 8,
+    "saldo_gols": -7,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 22,
+    "pontos": 41,
+    "vitorias": 11,
+    "empates": 8,
+    "derrotas": 3,
+    "saldo_gols": 20,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 22,
+    "pontos": 36,
+    "vitorias": 9,
+    "empates": 9,
+    "derrotas": 4,
+    "saldo_gols": 8,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 22,
+    "pontos": 21,
+    "vitorias": 5,
+    "empates": 6,
+    "derrotas": 11,
+    "saldo_gols": -15,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 22,
+    "pontos": 31,
+    "vitorias": 8,
+    "empates": 7,
+    "derrotas": 7,
+    "saldo_gols": 5,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 22,
+    "pontos": 20,
+    "vitorias": 5,
+    "empates": 5,
+    "derrotas": 12,
+    "saldo_gols": -14,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 23,
+    "pontos": 17,
+    "vitorias": 4,
+    "empates": 5,
+    "derrotas": 14,
+    "saldo_gols": -22,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 23,
+    "pontos": 25,
+    "vitorias": 6,
+    "empates": 7,
+    "derrotas": 10,
+    "saldo_gols": -4,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 23,
+    "pontos": 51,
+    "vitorias": 16,
+    "empates": 3,
+    "derrotas": 4,
+    "saldo_gols": 25,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 23,
+    "pontos": 34,
+    "vitorias": 9,
+    "empates": 7,
+    "derrotas": 7,
+    "saldo_gols": 7,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 23,
+    "pontos": 37,
+    "vitorias": 10,
+    "empates": 7,
+    "derrotas": 6,
+    "saldo_gols": 9,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 23,
+    "pontos": 14,
+    "vitorias": 3,
+    "empates": 5,
+    "derrotas": 15,
+    "saldo_gols": -24,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 23,
+    "pontos": 27,
+    "vitorias": 6,
+    "empates": 9,
+    "derrotas": 8,
+    "saldo_gols": -2,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 23,
+    "pontos": 29,
+    "vitorias": 7,
+    "empates": 8,
+    "derrotas": 8,
+    "saldo_gols": 3,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 23,
+    "pontos": 29,
+    "vitorias": 8,
+    "empates": 5,
+    "derrotas": 10,
+    "saldo_gols": -6,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 23,
+    "pontos": 39,
+    "vitorias": 11,
+    "empates": 6,
+    "derrotas": 6,
+    "saldo_gols": 6,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 23,
+    "pontos": 38,
+    "vitorias": 11,
+    "empates": 5,
+    "derrotas": 7,
+    "saldo_gols": 7,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 23,
+    "pontos": 35,
+    "vitorias": 10,
+    "empates": 5,
+    "derrotas": 8,
+    "saldo_gols": 5,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 23,
+    "pontos": 25,
+    "vitorias": 6,
+    "empates": 7,
+    "derrotas": 10,
+    "saldo_gols": -10,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 23,
+    "pontos": 40,
+    "vitorias": 12,
+    "empates": 4,
+    "derrotas": 7,
+    "saldo_gols": 7,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 23,
+    "pontos": 29,
+    "vitorias": 7,
+    "empates": 8,
+    "derrotas": 8,
+    "saldo_gols": -6,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 23,
+    "pontos": 44,
+    "vitorias": 12,
+    "empates": 8,
+    "derrotas": 3,
+    "saldo_gols": 21,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 23,
+    "pontos": 39,
+    "vitorias": 10,
+    "empates": 9,
+    "derrotas": 4,
+    "saldo_gols": 10,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 23,
+    "pontos": 21,
+    "vitorias": 5,
+    "empates": 6,
+    "derrotas": 12,
+    "saldo_gols": -18,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 23,
+    "pontos": 31,
+    "vitorias": 8,
+    "empates": 7,
+    "derrotas": 8,
+    "saldo_gols": 4,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 23,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 12,
+    "saldo_gols": -12,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 24,
+    "pontos": 17,
+    "vitorias": 4,
+    "empates": 5,
+    "derrotas": 15,
+    "saldo_gols": -24,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 24,
+    "pontos": 25,
+    "vitorias": 6,
+    "empates": 7,
+    "derrotas": 11,
+    "saldo_gols": -5,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 24,
+    "pontos": 51,
+    "vitorias": 16,
+    "empates": 3,
+    "derrotas": 5,
+    "saldo_gols": 24,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 24,
+    "pontos": 37,
+    "vitorias": 10,
+    "empates": 7,
+    "derrotas": 7,
+    "saldo_gols": 8,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 24,
+    "pontos": 40,
+    "vitorias": 11,
+    "empates": 7,
+    "derrotas": 6,
+    "saldo_gols": 10,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 24,
+    "pontos": 14,
+    "vitorias": 3,
+    "empates": 5,
+    "derrotas": 16,
+    "saldo_gols": -28,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 24,
+    "pontos": 30,
+    "vitorias": 7,
+    "empates": 9,
+    "derrotas": 8,
+    "saldo_gols": -1,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 24,
+    "pontos": 29,
+    "vitorias": 7,
+    "empates": 8,
+    "derrotas": 9,
+    "saldo_gols": 2,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 24,
+    "pontos": 29,
+    "vitorias": 8,
+    "empates": 5,
+    "derrotas": 11,
+    "saldo_gols": -7,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 24,
+    "pontos": 40,
+    "vitorias": 11,
+    "empates": 7,
+    "derrotas": 6,
+    "saldo_gols": 6,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 24,
+    "pontos": 41,
+    "vitorias": 12,
+    "empates": 5,
+    "derrotas": 7,
+    "saldo_gols": 8,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 24,
+    "pontos": 38,
+    "vitorias": 11,
+    "empates": 5,
+    "derrotas": 8,
+    "saldo_gols": 6,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 24,
+    "pontos": 26,
+    "vitorias": 6,
+    "empates": 8,
+    "derrotas": 10,
+    "saldo_gols": -10,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 24,
+    "pontos": 43,
+    "vitorias": 13,
+    "empates": 4,
+    "derrotas": 7,
+    "saldo_gols": 8,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 24,
+    "pontos": 29,
+    "vitorias": 7,
+    "empates": 8,
+    "derrotas": 9,
+    "saldo_gols": -7,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 24,
+    "pontos": 44,
+    "vitorias": 12,
+    "empates": 8,
+    "derrotas": 4,
+    "saldo_gols": 20,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 24,
+    "pontos": 42,
+    "vitorias": 11,
+    "empates": 9,
+    "derrotas": 4,
+    "saldo_gols": 12,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 24,
+    "pontos": 24,
+    "vitorias": 6,
+    "empates": 6,
+    "derrotas": 12,
+    "saldo_gols": -17,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 24,
+    "pontos": 31,
+    "vitorias": 8,
+    "empates": 7,
+    "derrotas": 9,
+    "saldo_gols": 3,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 24,
+    "pontos": 26,
+    "vitorias": 7,
+    "empates": 5,
+    "derrotas": 12,
+    "saldo_gols": -8,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 25,
+    "pontos": 18,
+    "vitorias": 4,
+    "empates": 6,
+    "derrotas": 15,
+    "saldo_gols": -24,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 25,
+    "pontos": 25,
+    "vitorias": 6,
+    "empates": 7,
+    "derrotas": 12,
+    "saldo_gols": -6,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 25,
+    "pontos": 52,
+    "vitorias": 16,
+    "empates": 4,
+    "derrotas": 5,
+    "saldo_gols": 24,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 25,
+    "pontos": 40,
+    "vitorias": 11,
+    "empates": 7,
+    "derrotas": 7,
+    "saldo_gols": 10,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 25,
+    "pontos": 40,
+    "vitorias": 11,
+    "empates": 7,
+    "derrotas": 7,
+    "saldo_gols": 8,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 25,
+    "pontos": 17,
+    "vitorias": 4,
+    "empates": 5,
+    "derrotas": 16,
+    "saldo_gols": -26,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 25,
+    "pontos": 30,
+    "vitorias": 7,
+    "empates": 9,
+    "derrotas": 9,
+    "saldo_gols": -2,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 25,
+    "pontos": 30,
+    "vitorias": 7,
+    "empates": 9,
+    "derrotas": 9,
+    "saldo_gols": 2,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 25,
+    "pontos": 32,
+    "vitorias": 9,
+    "empates": 5,
+    "derrotas": 11,
+    "saldo_gols": -4,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 25,
+    "pontos": 43,
+    "vitorias": 12,
+    "empates": 7,
+    "derrotas": 6,
+    "saldo_gols": 7,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 25,
+    "pontos": 41,
+    "vitorias": 12,
+    "empates": 5,
+    "derrotas": 8,
+    "saldo_gols": 5,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 25,
+    "pontos": 39,
+    "vitorias": 11,
+    "empates": 6,
+    "derrotas": 8,
+    "saldo_gols": 6,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 25,
+    "pontos": 27,
+    "vitorias": 6,
+    "empates": 9,
+    "derrotas": 10,
+    "saldo_gols": -10,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 25,
+    "pontos": 44,
+    "vitorias": 13,
+    "empates": 5,
+    "derrotas": 7,
+    "saldo_gols": 8,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 25,
+    "pontos": 29,
+    "vitorias": 7,
+    "empates": 8,
+    "derrotas": 10,
+    "saldo_gols": -9,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 25,
+    "pontos": 44,
+    "vitorias": 12,
+    "empates": 8,
+    "derrotas": 5,
+    "saldo_gols": 19,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 25,
+    "pontos": 45,
+    "vitorias": 12,
+    "empates": 9,
+    "derrotas": 4,
+    "saldo_gols": 13,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 25,
+    "pontos": 27,
+    "vitorias": 7,
+    "empates": 6,
+    "derrotas": 12,
+    "saldo_gols": -14,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 25,
+    "pontos": 34,
+    "vitorias": 9,
+    "empates": 7,
+    "derrotas": 9,
+    "saldo_gols": 4,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 25,
+    "pontos": 26,
+    "vitorias": 7,
+    "empates": 5,
+    "derrotas": 13,
+    "saldo_gols": -11,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 26,
+    "pontos": 18,
+    "vitorias": 4,
+    "empates": 6,
+    "derrotas": 16,
+    "saldo_gols": -25,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 26,
+    "pontos": 28,
+    "vitorias": 7,
+    "empates": 7,
+    "derrotas": 12,
+    "saldo_gols": -4,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 26,
+    "pontos": 55,
+    "vitorias": 17,
+    "empates": 4,
+    "derrotas": 5,
+    "saldo_gols": 26,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 26,
+    "pontos": 40,
+    "vitorias": 11,
+    "empates": 7,
+    "derrotas": 8,
+    "saldo_gols": 9,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 26,
+    "pontos": 41,
+    "vitorias": 11,
+    "empates": 8,
+    "derrotas": 7,
+    "saldo_gols": 8,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 26,
+    "pontos": 20,
+    "vitorias": 5,
+    "empates": 5,
+    "derrotas": 16,
+    "saldo_gols": -25,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 26,
+    "pontos": 31,
+    "vitorias": 7,
+    "empates": 10,
+    "derrotas": 9,
+    "saldo_gols": -2,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 26,
+    "pontos": 31,
+    "vitorias": 7,
+    "empates": 10,
+    "derrotas": 9,
+    "saldo_gols": 2,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 26,
+    "pontos": 33,
+    "vitorias": 9,
+    "empates": 6,
+    "derrotas": 11,
+    "saldo_gols": -4,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 26,
+    "pontos": 44,
+    "vitorias": 12,
+    "empates": 8,
+    "derrotas": 6,
+    "saldo_gols": 7,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 26,
+    "pontos": 41,
+    "vitorias": 12,
+    "empates": 5,
+    "derrotas": 9,
+    "saldo_gols": 3,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 26,
+    "pontos": 42,
+    "vitorias": 12,
+    "empates": 6,
+    "derrotas": 8,
+    "saldo_gols": 7,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 26,
+    "pontos": 27,
+    "vitorias": 6,
+    "empates": 9,
+    "derrotas": 11,
+    "saldo_gols": -12,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 26,
+    "pontos": 44,
+    "vitorias": 13,
+    "empates": 5,
+    "derrotas": 8,
+    "saldo_gols": 7,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 26,
+    "pontos": 32,
+    "vitorias": 8,
+    "empates": 8,
+    "derrotas": 10,
+    "saldo_gols": -8,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 26,
+    "pontos": 44,
+    "vitorias": 12,
+    "empates": 8,
+    "derrotas": 6,
+    "saldo_gols": 18,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 26,
+    "pontos": 46,
+    "vitorias": 12,
+    "empates": 10,
+    "derrotas": 4,
+    "saldo_gols": 13,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 26,
+    "pontos": 30,
+    "vitorias": 8,
+    "empates": 6,
+    "derrotas": 12,
+    "saldo_gols": -13,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 26,
+    "pontos": 35,
+    "vitorias": 9,
+    "empates": 8,
+    "derrotas": 9,
+    "saldo_gols": 4,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 26,
+    "pontos": 27,
+    "vitorias": 7,
+    "empates": 6,
+    "derrotas": 13,
+    "saldo_gols": -11,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 27,
+    "pontos": 18,
+    "vitorias": 4,
+    "empates": 6,
+    "derrotas": 17,
+    "saldo_gols": -26,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 27,
+    "pontos": 31,
+    "vitorias": 8,
+    "empates": 7,
+    "derrotas": 12,
+    "saldo_gols": -3,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 27,
+    "pontos": 58,
+    "vitorias": 18,
+    "empates": 4,
+    "derrotas": 5,
+    "saldo_gols": 27,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 27,
+    "pontos": 43,
+    "vitorias": 12,
+    "empates": 7,
+    "derrotas": 8,
+    "saldo_gols": 11,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 27,
+    "pontos": 44,
+    "vitorias": 12,
+    "empates": 8,
+    "derrotas": 7,
+    "saldo_gols": 9,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 27,
+    "pontos": 20,
+    "vitorias": 5,
+    "empates": 5,
+    "derrotas": 17,
+    "saldo_gols": -28,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 27,
+    "pontos": 32,
+    "vitorias": 7,
+    "empates": 11,
+    "derrotas": 9,
+    "saldo_gols": -2,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 27,
+    "pontos": 31,
+    "vitorias": 7,
+    "empates": 10,
+    "derrotas": 10,
+    "saldo_gols": 0,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 27,
+    "pontos": 36,
+    "vitorias": 10,
+    "empates": 6,
+    "derrotas": 11,
+    "saldo_gols": -1,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 27,
+    "pontos": 47,
+    "vitorias": 13,
+    "empates": 8,
+    "derrotas": 6,
+    "saldo_gols": 9,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 27,
+    "pontos": 42,
+    "vitorias": 12,
+    "empates": 6,
+    "derrotas": 9,
+    "saldo_gols": 3,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 27,
+    "pontos": 42,
+    "vitorias": 12,
+    "empates": 6,
+    "derrotas": 9,
+    "saldo_gols": 6,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 27,
+    "pontos": 30,
+    "vitorias": 7,
+    "empates": 9,
+    "derrotas": 11,
+    "saldo_gols": -10,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 27,
+    "pontos": 44,
+    "vitorias": 13,
+    "empates": 5,
+    "derrotas": 9,
+    "saldo_gols": 6,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 27,
+    "pontos": 32,
+    "vitorias": 8,
+    "empates": 8,
+    "derrotas": 11,
+    "saldo_gols": -9,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 27,
+    "pontos": 44,
+    "vitorias": 12,
+    "empates": 8,
+    "derrotas": 7,
+    "saldo_gols": 16,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 27,
+    "pontos": 49,
+    "vitorias": 13,
+    "empates": 10,
+    "derrotas": 4,
+    "saldo_gols": 15,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 27,
+    "pontos": 30,
+    "vitorias": 8,
+    "empates": 6,
+    "derrotas": 13,
+    "saldo_gols": -15,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 27,
+    "pontos": 35,
+    "vitorias": 9,
+    "empates": 8,
+    "derrotas": 10,
+    "saldo_gols": 2,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 27,
+    "pontos": 30,
+    "vitorias": 8,
+    "empates": 6,
+    "derrotas": 13,
+    "saldo_gols": -10,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 28,
+    "pontos": 19,
+    "vitorias": 4,
+    "empates": 7,
+    "derrotas": 17,
+    "saldo_gols": -26,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 28,
+    "pontos": 34,
+    "vitorias": 9,
+    "empates": 7,
+    "derrotas": 12,
+    "saldo_gols": -1,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 28,
+    "pontos": 59,
+    "vitorias": 18,
+    "empates": 5,
+    "derrotas": 5,
+    "saldo_gols": 27,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 28,
+    "pontos": 43,
+    "vitorias": 12,
+    "empates": 7,
+    "derrotas": 9,
+    "saldo_gols": 10,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 28,
+    "pontos": 45,
+    "vitorias": 12,
+    "empates": 9,
+    "derrotas": 7,
+    "saldo_gols": 9,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 28,
+    "pontos": 20,
+    "vitorias": 5,
+    "empates": 5,
+    "derrotas": 18,
+    "saldo_gols": -30,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 28,
+    "pontos": 33,
+    "vitorias": 7,
+    "empates": 12,
+    "derrotas": 9,
+    "saldo_gols": -2,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 28,
+    "pontos": 34,
+    "vitorias": 8,
+    "empates": 10,
+    "derrotas": 10,
+    "saldo_gols": 1,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 28,
+    "pontos": 37,
+    "vitorias": 10,
+    "empates": 7,
+    "derrotas": 11,
+    "saldo_gols": -1,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 28,
+    "pontos": 50,
+    "vitorias": 14,
+    "empates": 8,
+    "derrotas": 6,
+    "saldo_gols": 10,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 28,
+    "pontos": 42,
+    "vitorias": 12,
+    "empates": 6,
+    "derrotas": 10,
+    "saldo_gols": 2,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 28,
+    "pontos": 42,
+    "vitorias": 12,
+    "empates": 6,
+    "derrotas": 10,
+    "saldo_gols": 4,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 28,
+    "pontos": 31,
+    "vitorias": 7,
+    "empates": 10,
+    "derrotas": 11,
+    "saldo_gols": -10,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 28,
+    "pontos": 44,
+    "vitorias": 13,
+    "empates": 5,
+    "derrotas": 10,
+    "saldo_gols": 3,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 28,
+    "pontos": 35,
+    "vitorias": 9,
+    "empates": 8,
+    "derrotas": 11,
+    "saldo_gols": -3,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 28,
+    "pontos": 47,
+    "vitorias": 13,
+    "empates": 8,
+    "derrotas": 7,
+    "saldo_gols": 18,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 28,
+    "pontos": 52,
+    "vitorias": 14,
+    "empates": 10,
+    "derrotas": 4,
+    "saldo_gols": 16,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 28,
+    "pontos": 30,
+    "vitorias": 8,
+    "empates": 6,
+    "derrotas": 14,
+    "saldo_gols": -21,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 28,
+    "pontos": 38,
+    "vitorias": 10,
+    "empates": 8,
+    "derrotas": 10,
+    "saldo_gols": 5,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 28,
+    "pontos": 30,
+    "vitorias": 8,
+    "empates": 6,
+    "derrotas": 14,
+    "saldo_gols": -11,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 29,
+    "pontos": 19,
+    "vitorias": 4,
+    "empates": 7,
+    "derrotas": 18,
+    "saldo_gols": -27,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 29,
+    "pontos": 34,
+    "vitorias": 9,
+    "empates": 7,
+    "derrotas": 13,
+    "saldo_gols": -4,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 29,
+    "pontos": 59,
+    "vitorias": 18,
+    "empates": 6,
+    "derrotas": 5,
+    "saldo_gols": 27,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 29,
+    "pontos": 46,
+    "vitorias": 13,
+    "empates": 7,
+    "derrotas": 9,
+    "saldo_gols": 11,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 29,
+    "pontos": 48,
+    "vitorias": 13,
+    "empates": 9,
+    "derrotas": 7,
+    "saldo_gols": 10,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 29,
+    "pontos": 20,
+    "vitorias": 5,
+    "empates": 5,
+    "derrotas": 19,
+    "saldo_gols": -31,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 29,
+    "pontos": 36,
+    "vitorias": 8,
+    "empates": 12,
+    "derrotas": 9,
+    "saldo_gols": -1,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 29,
+    "pontos": 37,
+    "vitorias": 9,
+    "empates": 10,
+    "derrotas": 10,
+    "saldo_gols": 4,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 29,
+    "pontos": 37,
+    "vitorias": 10,
+    "empates": 7,
+    "derrotas": 12,
+    "saldo_gols": -2,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 29,
+    "pontos": 50,
+    "vitorias": 14,
+    "empates": 8,
+    "derrotas": 7,
+    "saldo_gols": 9,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 29,
+    "pontos": 45,
+    "vitorias": 13,
+    "empates": 6,
+    "derrotas": 10,
+    "saldo_gols": 4,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 29,
+    "pontos": 42,
+    "vitorias": 12,
+    "empates": 7,
+    "derrotas": 10,
+    "saldo_gols": 4,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 29,
+    "pontos": 31,
+    "vitorias": 7,
+    "empates": 10,
+    "derrotas": 12,
+    "saldo_gols": -12,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 29,
+    "pontos": 47,
+    "vitorias": 14,
+    "empates": 5,
+    "derrotas": 10,
+    "saldo_gols": 4,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 29,
+    "pontos": 38,
+    "vitorias": 10,
+    "empates": 8,
+    "derrotas": 11,
+    "saldo_gols": -2,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 29,
+    "pontos": 50,
+    "vitorias": 14,
+    "empates": 8,
+    "derrotas": 7,
+    "saldo_gols": 23,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 29,
+    "pontos": 52,
+    "vitorias": 14,
+    "empates": 10,
+    "derrotas": 5,
+    "saldo_gols": 15,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 29,
+    "pontos": 33,
+    "vitorias": 9,
+    "empates": 6,
+    "derrotas": 14,
+    "saldo_gols": -20,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 29,
+    "pontos": 38,
+    "vitorias": 10,
+    "empates": 8,
+    "derrotas": 11,
+    "saldo_gols": 0,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 29,
+    "pontos": 30,
+    "vitorias": 8,
+    "empates": 6,
+    "derrotas": 15,
+    "saldo_gols": -12,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 30,
+    "pontos": 19,
+    "vitorias": 4,
+    "empates": 7,
+    "derrotas": 19,
+    "saldo_gols": -28,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 30,
+    "pontos": 34,
+    "vitorias": 9,
+    "empates": 7,
+    "derrotas": 14,
+    "saldo_gols": -5,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 30,
+    "pontos": 59,
+    "vitorias": 18,
+    "empates": 6,
+    "derrotas": 6,
+    "saldo_gols": 26,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 30,
+    "pontos": 49,
+    "vitorias": 14,
+    "empates": 7,
+    "derrotas": 9,
+    "saldo_gols": 13,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 30,
+    "pontos": 49,
+    "vitorias": 13,
+    "empates": 10,
+    "derrotas": 7,
+    "saldo_gols": 10,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 30,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 19,
+    "saldo_gols": -30,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 30,
+    "pontos": 37,
+    "vitorias": 8,
+    "empates": 13,
+    "derrotas": 9,
+    "saldo_gols": -1,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 30,
+    "pontos": 38,
+    "vitorias": 9,
+    "empates": 11,
+    "derrotas": 10,
+    "saldo_gols": 4,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 30,
+    "pontos": 40,
+    "vitorias": 11,
+    "empates": 7,
+    "derrotas": 12,
+    "saldo_gols": -1,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 30,
+    "pontos": 50,
+    "vitorias": 14,
+    "empates": 9,
+    "derrotas": 7,
+    "saldo_gols": 9,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 30,
+    "pontos": 45,
+    "vitorias": 13,
+    "empates": 6,
+    "derrotas": 11,
+    "saldo_gols": 2,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 30,
+    "pontos": 42,
+    "vitorias": 12,
+    "empates": 8,
+    "derrotas": 10,
+    "saldo_gols": 4,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 30,
+    "pontos": 32,
+    "vitorias": 7,
+    "empates": 11,
+    "derrotas": 12,
+    "saldo_gols": -12,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 30,
+    "pontos": 50,
+    "vitorias": 15,
+    "empates": 5,
+    "derrotas": 10,
+    "saldo_gols": 5,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 30,
+    "pontos": 38,
+    "vitorias": 10,
+    "empates": 8,
+    "derrotas": 12,
+    "saldo_gols": -3,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 30,
+    "pontos": 53,
+    "vitorias": 15,
+    "empates": 8,
+    "derrotas": 7,
+    "saldo_gols": 24,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 30,
+    "pontos": 52,
+    "vitorias": 14,
+    "empates": 11,
+    "derrotas": 5,
+    "saldo_gols": 15,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 30,
+    "pontos": 34,
+    "vitorias": 9,
+    "empates": 7,
+    "derrotas": 14,
+    "saldo_gols": -20,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 30,
+    "pontos": 39,
+    "vitorias": 10,
+    "empates": 9,
+    "derrotas": 11,
+    "saldo_gols": 0,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 30,
+    "pontos": 31,
+    "vitorias": 8,
+    "empates": 7,
+    "derrotas": 15,
+    "saldo_gols": -12,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 31,
+    "pontos": 20,
+    "vitorias": 4,
+    "empates": 8,
+    "derrotas": 19,
+    "saldo_gols": -28,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 31,
+    "pontos": 37,
+    "vitorias": 10,
+    "empates": 7,
+    "derrotas": 14,
+    "saldo_gols": -4,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 31,
+    "pontos": 59,
+    "vitorias": 18,
+    "empates": 6,
+    "derrotas": 7,
+    "saldo_gols": 25,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 31,
+    "pontos": 52,
+    "vitorias": 15,
+    "empates": 7,
+    "derrotas": 9,
+    "saldo_gols": 15,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 31,
+    "pontos": 49,
+    "vitorias": 13,
+    "empates": 10,
+    "derrotas": 8,
+    "saldo_gols": 9,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 31,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 20,
+    "saldo_gols": -31,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 31,
+    "pontos": 40,
+    "vitorias": 9,
+    "empates": 13,
+    "derrotas": 9,
+    "saldo_gols": 0,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 31,
+    "pontos": 38,
+    "vitorias": 9,
+    "empates": 11,
+    "derrotas": 11,
+    "saldo_gols": 3,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 31,
+    "pontos": 40,
+    "vitorias": 11,
+    "empates": 7,
+    "derrotas": 13,
+    "saldo_gols": -3,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 31,
+    "pontos": 50,
+    "vitorias": 14,
+    "empates": 9,
+    "derrotas": 8,
+    "saldo_gols": 8,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 31,
+    "pontos": 45,
+    "vitorias": 13,
+    "empates": 6,
+    "derrotas": 12,
+    "saldo_gols": 1,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 31,
+    "pontos": 42,
+    "vitorias": 12,
+    "empates": 8,
+    "derrotas": 11,
+    "saldo_gols": 2,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 31,
+    "pontos": 32,
+    "vitorias": 7,
+    "empates": 11,
+    "derrotas": 13,
+    "saldo_gols": -14,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 31,
+    "pontos": 53,
+    "vitorias": 16,
+    "empates": 5,
+    "derrotas": 10,
+    "saldo_gols": 6,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 31,
+    "pontos": 39,
+    "vitorias": 10,
+    "empates": 9,
+    "derrotas": 12,
+    "saldo_gols": -3,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 31,
+    "pontos": 56,
+    "vitorias": 16,
+    "empates": 8,
+    "derrotas": 7,
+    "saldo_gols": 25,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 31,
+    "pontos": 55,
+    "vitorias": 15,
+    "empates": 11,
+    "derrotas": 5,
+    "saldo_gols": 17,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 31,
+    "pontos": 37,
+    "vitorias": 10,
+    "empates": 7,
+    "derrotas": 14,
+    "saldo_gols": -19,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 31,
+    "pontos": 42,
+    "vitorias": 11,
+    "empates": 9,
+    "derrotas": 11,
+    "saldo_gols": 1,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 31,
+    "pontos": 34,
+    "vitorias": 9,
+    "empates": 7,
+    "derrotas": 15,
+    "saldo_gols": -10,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 32,
+    "pontos": 21,
+    "vitorias": 4,
+    "empates": 9,
+    "derrotas": 19,
+    "saldo_gols": -28,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 32,
+    "pontos": 37,
+    "vitorias": 10,
+    "empates": 7,
+    "derrotas": 15,
+    "saldo_gols": -5,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 32,
+    "pontos": 59,
+    "vitorias": 18,
+    "empates": 6,
+    "derrotas": 8,
+    "saldo_gols": 24,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 32,
+    "pontos": 53,
+    "vitorias": 15,
+    "empates": 8,
+    "derrotas": 9,
+    "saldo_gols": 15,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 32,
+    "pontos": 49,
+    "vitorias": 13,
+    "empates": 10,
+    "derrotas": 9,
+    "saldo_gols": 8,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 32,
+    "pontos": 23,
+    "vitorias": 6,
+    "empates": 5,
+    "derrotas": 21,
+    "saldo_gols": -32,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 32,
+    "pontos": 40,
+    "vitorias": 9,
+    "empates": 13,
+    "derrotas": 10,
+    "saldo_gols": -1,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 32,
+    "pontos": 38,
+    "vitorias": 9,
+    "empates": 11,
+    "derrotas": 12,
+    "saldo_gols": 2,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 32,
+    "pontos": 41,
+    "vitorias": 11,
+    "empates": 8,
+    "derrotas": 13,
+    "saldo_gols": -3,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 32,
+    "pontos": 53,
+    "vitorias": 15,
+    "empates": 9,
+    "derrotas": 8,
+    "saldo_gols": 10,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 32,
+    "pontos": 45,
+    "vitorias": 13,
+    "empates": 7,
+    "derrotas": 12,
+    "saldo_gols": 1,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 32,
+    "pontos": 42,
+    "vitorias": 12,
+    "empates": 8,
+    "derrotas": 12,
+    "saldo_gols": 0,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 32,
+    "pontos": 35,
+    "vitorias": 8,
+    "empates": 11,
+    "derrotas": 13,
+    "saldo_gols": -13,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 32,
+    "pontos": 56,
+    "vitorias": 17,
+    "empates": 5,
+    "derrotas": 10,
+    "saldo_gols": 7,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 32,
+    "pontos": 42,
+    "vitorias": 11,
+    "empates": 9,
+    "derrotas": 12,
+    "saldo_gols": -2,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 32,
+    "pontos": 59,
+    "vitorias": 17,
+    "empates": 8,
+    "derrotas": 7,
+    "saldo_gols": 26,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 32,
+    "pontos": 58,
+    "vitorias": 16,
+    "empates": 11,
+    "derrotas": 5,
+    "saldo_gols": 18,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 32,
+    "pontos": 38,
+    "vitorias": 10,
+    "empates": 8,
+    "derrotas": 14,
+    "saldo_gols": -19,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 32,
+    "pontos": 42,
+    "vitorias": 11,
+    "empates": 10,
+    "derrotas": 11,
+    "saldo_gols": 1,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 32,
+    "pontos": 37,
+    "vitorias": 10,
+    "empates": 7,
+    "derrotas": 15,
+    "saldo_gols": -9,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 33,
+    "pontos": 21,
+    "vitorias": 4,
+    "empates": 9,
+    "derrotas": 20,
+    "saldo_gols": -31,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 33,
+    "pontos": 37,
+    "vitorias": 10,
+    "empates": 7,
+    "derrotas": 16,
+    "saldo_gols": -8,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 33,
+    "pontos": 59,
+    "vitorias": 18,
+    "empates": 6,
+    "derrotas": 9,
+    "saldo_gols": 23,
+    "posicao": 1
+  },
+  {
+    "id_clube": 4,
+    "rodada": 33,
+    "pontos": 54,
+    "vitorias": 15,
+    "empates": 9,
+    "derrotas": 9,
+    "saldo_gols": 15,
+    "posicao": 6
+  },
+  {
+    "id_clube": 5,
+    "rodada": 33,
+    "pontos": 50,
+    "vitorias": 13,
+    "empates": 11,
+    "derrotas": 9,
+    "saldo_gols": 8,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 33,
+    "pontos": 26,
+    "vitorias": 7,
+    "empates": 5,
+    "derrotas": 21,
+    "saldo_gols": -29,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 33,
+    "pontos": 41,
+    "vitorias": 9,
+    "empates": 14,
+    "derrotas": 10,
+    "saldo_gols": -1,
+    "posicao": 13
+  },
+  {
+    "id_clube": 8,
+    "rodada": 33,
+    "pontos": 38,
+    "vitorias": 9,
+    "empates": 12,
+    "derrotas": 12,
+    "saldo_gols": 2,
+    "posicao": 15
+  },
+  {
+    "id_clube": 9,
+    "rodada": 33,
+    "pontos": 44,
+    "vitorias": 12,
+    "empates": 8,
+    "derrotas": 13,
+    "saldo_gols": 0,
+    "posicao": 11
+  },
+  {
+    "id_clube": 10,
+    "rodada": 33,
+    "pontos": 56,
+    "vitorias": 16,
+    "empates": 9,
+    "derrotas": 8,
+    "saldo_gols": 13,
+    "posicao": 5
+  },
+  {
+    "id_clube": 11,
+    "rodada": 33,
+    "pontos": 46,
+    "vitorias": 13,
+    "empates": 8,
+    "derrotas": 12,
+    "saldo_gols": 1,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 33,
+    "pontos": 43,
+    "vitorias": 12,
+    "empates": 9,
+    "derrotas": 12,
+    "saldo_gols": 0,
+    "posicao": 10
+  },
+  {
+    "id_clube": 13,
+    "rodada": 33,
+    "pontos": 35,
+    "vitorias": 8,
+    "empates": 11,
+    "derrotas": 14,
+    "saldo_gols": -14,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 33,
+    "pontos": 59,
+    "vitorias": 18,
+    "empates": 5,
+    "derrotas": 10,
+    "saldo_gols": 8,
+    "posicao": 4
+  },
+  {
+    "id_clube": 15,
+    "rodada": 33,
+    "pontos": 43,
+    "vitorias": 11,
+    "empates": 10,
+    "derrotas": 12,
+    "saldo_gols": -2,
+    "posicao": 12
+  },
+  {
+    "id_clube": 16,
+    "rodada": 33,
+    "pontos": 59,
+    "vitorias": 17,
+    "empates": 8,
+    "derrotas": 8,
+    "saldo_gols": 23,
+    "posicao": 2
+  },
+  {
+    "id_clube": 17,
+    "rodada": 33,
+    "pontos": 58,
+    "vitorias": 16,
+    "empates": 11,
+    "derrotas": 6,
+    "saldo_gols": 17,
+    "posicao": 3
+  },
+  {
+    "id_clube": 18,
+    "rodada": 33,
+    "pontos": 41,
+    "vitorias": 11,
+    "empates": 8,
+    "derrotas": 14,
+    "saldo_gols": -18,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 33,
+    "pontos": 45,
+    "vitorias": 12,
+    "empates": 10,
+    "derrotas": 11,
+    "saldo_gols": 2,
+    "posicao": 9
+  },
+  {
+    "id_clube": 20,
+    "rodada": 33,
+    "pontos": 37,
+    "vitorias": 10,
+    "empates": 8,
+    "derrotas": 15,
+    "saldo_gols": -9,
+    "posicao": 16
+  },
+  {
+    "id_clube": 1,
+    "rodada": 34,
+    "pontos": 21,
+    "vitorias": 4,
+    "empates": 9,
+    "derrotas": 21,
+    "saldo_gols": -32,
+    "posicao": 20
+  },
+  {
+    "id_clube": 2,
+    "rodada": 34,
+    "pontos": 38,
+    "vitorias": 10,
+    "empates": 8,
+    "derrotas": 16,
+    "saldo_gols": -8,
+    "posicao": 17
+  },
+  {
+    "id_clube": 3,
+    "rodada": 34,
+    "pontos": 60,
+    "vitorias": 18,
+    "empates": 6,
+    "derrotas": 9,
+    "saldo_gols": 23,
+    "posicao": 2
+  },
+  {
+    "id_clube": 4,
+    "rodada": 34,
+    "pontos": 57,
+    "vitorias": 16,
+    "empates": 9,
+    "derrotas": 9,
+    "saldo_gols": 16,
+    "posicao": 5
+  },
+  {
+    "id_clube": 5,
+    "rodada": 34,
+    "pontos": 51,
+    "vitorias": 13,
+    "empates": 12,
+    "derrotas": 9,
+    "saldo_gols": 8,
+    "posicao": 7
+  },
+  {
+    "id_clube": 6,
+    "rodada": 34,
+    "pontos": 29,
+    "vitorias": 8,
+    "empates": 5,
+    "derrotas": 21,
+    "saldo_gols": -28,
+    "posicao": 19
+  },
+  {
+    "id_clube": 7,
+    "rodada": 34,
+    "pontos": 44,
+    "vitorias": 10,
+    "empates": 14,
+    "derrotas": 10,
+    "saldo_gols": 0,
+    "posicao": 11
+  },
+  {
+    "id_clube": 8,
+    "rodada": 34,
+    "pontos": 39,
+    "vitorias": 9,
+    "empates": 12,
+    "derrotas": 13,
+    "saldo_gols": -1,
+    "posicao": 16
+  },
+  {
+    "id_clube": 9,
+    "rodada": 34,
+    "pontos": 47,
+    "vitorias": 13,
+    "empates": 8,
+    "derrotas": 13,
+    "saldo_gols": 1,
+    "posicao": 9
+  },
+  {
+    "id_clube": 10,
+    "rodada": 34,
+    "pontos": 57,
+    "vitorias": 16,
+    "empates": 9,
+    "derrotas": 8,
+    "saldo_gols": 13,
+    "posicao": 6
+  },
+  {
+    "id_clube": 11,
+    "rodada": 34,
+    "pontos": 47,
+    "vitorias": 13,
+    "empates": 8,
+    "derrotas": 12,
+    "saldo_gols": 1,
+    "posicao": 8
+  },
+  {
+    "id_clube": 12,
+    "rodada": 34,
+    "pontos": 43,
+    "vitorias": 12,
+    "empates": 7,
+    "derrotas": 14,
+    "saldo_gols": -1,
+    "posicao": 12
+  },
+  {
+    "id_clube": 13,
+    "rodada": 34,
+    "pontos": 35,
+    "vitorias": 8,
+    "empates": 11,
+    "derrotas": 15,
+    "saldo_gols": -15,
+    "posicao": 18
+  },
+  {
+    "id_clube": 14,
+    "rodada": 34,
+    "pontos": 59,
+    "vitorias": 18,
+    "empates": 5,
+    "derrotas": 11,
+    "saldo_gols": 7,
+    "posicao": 3
+  },
+  {
+    "id_clube": 15,
+    "rodada": 34,
+    "pontos": 43,
+    "vitorias": 11,
+    "empates": 10,
+    "derrotas": 13,
+    "saldo_gols": -5,
+    "posicao": 13
+  },
+  {
+    "id_clube": 16,
+    "rodada": 34,
+    "pontos": 62,
+    "vitorias": 18,
+    "empates": 8,
+    "derrotas": 8,
+    "saldo_gols": 26,
+    "posicao": 1
+  },
+  {
+    "id_clube": 17,
+    "rodada": 34,
+    "pontos": 59,
+    "vitorias": 16,
+    "empates": 11,
+    "derrotas": 6,
+    "saldo_gols": 17,
+    "posicao": 4
+  },
+  {
+    "id_clube": 18,
+    "rodada": 34,
+    "pontos": 42,
+    "vitorias": 11,
+    "empates": 9,
+    "derrotas": 14,
+    "saldo_gols": -18,
+    "posicao": 14
+  },
+  {
+    "id_clube": 19,
+    "rodada": 34,
+    "pontos": 46,
+    "vitorias": 12,
+    "empates": 10,
+    "derrotas": 11,
+    "saldo_gols": 2,
+    "posicao": 10
+  },
+  {
+    "id_clube": 20,
+    "rodada": 34,
+    "pontos": 40,
+    "vitorias": 11,
+    "empates": 7,
+    "derrotas": 15,
+    "saldo_gols": -8,
+    "posicao": 15
+  }
+]
