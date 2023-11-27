@@ -4,6 +4,8 @@
 ## Descrição
 "View Brasileirão 2023" é uma aplicação web projetada para fornecer informações sobre a Série A do Brasileirão de 2023, a principal liga de futebol do Brasil. Construída utilizando Next.js, esta aplicação oferece visualização de dados da rodada 1 até a rodada 34.
 
+O Projeto pode ser acessado neste [Link](https://view-brasileirao-2023.vercel.app/).
+
 ![image](https://github.com/Claytonrss/view-brasileirao-2023/assets/33030911/2536958a-be56-4899-a7b7-14a2dd1e82e6)
 
 ![image](https://github.com/Claytonrss/view-brasileirao-2023/assets/33030911/8b8cd41f-ac18-47f4-be19-ebfe3f806d32)
